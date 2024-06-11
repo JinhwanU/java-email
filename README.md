@@ -24,7 +24,8 @@
 <details>
    <summary><b>열기</b></summary>
 <div markdown="1">
-![요구사항 설계](https://github.com/JinhwanU/java-email/assets/96904426/77750d0b-76b0-4933-87b3-7b0084b7551f)
+   
+   ![요구사항 설계](https://github.com/JinhwanU/java-email/assets/96904426/282f873d-ec2b-419a-a087-563b8aa1ebbb)
 <br><br>
   https://www.notion.so/cb342621db50460c989b98d3498b8094?v=90b1da24df3d4b9995a06cd302fc6dba&pvs=4
 </div>
@@ -37,7 +38,8 @@
 <details>
    <summary><b>열기</b></summary>
 <div markdown="1">
-![유스케이스 다이어그램](https://github.com/JinhwanU/java-email/assets/96904426/64c19317-b1bf-454c-9989-d7babc5b13d0)
+   
+   ![유스케이스 다이어그램](https://github.com/JinhwanU/java-email/assets/96904426/2047a624-5bec-4181-bb1a-585f6afb17c6)
 </div>
 </details>
 
@@ -47,7 +49,8 @@
 <details>
    <summary><b>열기</b></summary>
 <div markdown="1">
-![테이블 설계](https://github.com/JinhwanU/java-email/assets/96904426/451543cf-83b9-4539-8f78-a299a7672d18)
+   
+   ![테이블 설계](https://github.com/JinhwanU/java-email/assets/96904426/73b63dcc-aecd-42e1-ba72-6e746209c427)
 </div>
 </details>
 
@@ -58,8 +61,9 @@
 <details>
    <summary><b>열기</b></summary>
 <div markdown="1">
-![UI cld](https://github.com/JinhwanU/java-email/assets/96904426/9ae434c1-35cc-4cb8-8e44-788294f06fb1)
-![class cld](https://github.com/JinhwanU/java-email/assets/96904426/7151a57b-205c-43d7-a63c-c15916bf401f) 
+   
+   ![UI cld](https://github.com/JinhwanU/java-email/assets/96904426/22ad5ca1-197d-43bb-a539-b8a9f377ae05)
+   ![class cld](https://github.com/JinhwanU/java-email/assets/96904426/3bc18614-9702-4e19-b749-820b2b5cc93b)
 </div>
 </details>
 
